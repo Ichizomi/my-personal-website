@@ -1,0 +1,12 @@
+body{
+  background-color: #46cdcf;
+}
+hr{
+  border-color: #3d84a8;
+  border-style: none none dotted none;
+  border-width: 7px;
+  width: 10%;
+}
+h1, h2, h3{
+  color: #48466d;
+}
